@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014471001593",
+    "project_id": "miapp-886e5",
+    "storage_bucket": "miapp-886e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014471001593:android:b04c242616557592fa6928",
+        "android_client_info": {
+          "package_name": "miapp.diego.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcrbmhX76YDK2y7HuanbM9D782a7-Yfbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
